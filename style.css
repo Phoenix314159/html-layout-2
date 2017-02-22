@@ -1,0 +1,113 @@
+*{
+  border: black 2px dotted;
+}
+
+
+.whole{
+  background-color: rgb(104, 107, 107);
+  height: 90vh;
+  width: 100vw;
+}
+.top-box{
+  height:30vh;
+  width:70vw;
+  margin-left:auto;
+  margin-right: auto;
+  margin-top: 20;
+  background-color: rgb(236, 231, 216);
+  margin-bottom: 80;
+}
+div div p{
+  text-align: center;
+  font-size: 20px;
+  padding-top:20px;
+  padding:auto;
+  width:50vw;
+  margin-left: auto;
+  margin-right: auto;
+}
+.bottom-box{
+  height:50vh;
+  width:70vw;
+  margin-left:auto;
+  margin-right: auto;
+  margin-top: 50;
+  background-color: rgb(236, 231, 216);
+}
+.click-box1{
+  margin-right: 10px;
+  margin-left: 40px;
+  height: 50px;
+  width: 60px;
+  padding-left: 40px;
+  padding-right: 40px;
+  display: inline-block;
+  background-color: blue;
+  text-align: center;
+  margin-top: 80px;
+  position:relative;
+}
+.click-box2{
+  margin-top: 80px;
+  height: 50px;
+  width: 60px;
+  margin-left: 60;
+  padding-left: 40px;
+  background-color: red;
+  padding-right: 40px;
+  text-align: center;
+  display: inline-block;
+  position:relative;
+}
+.dude{
+  height: 3vh;
+  width:70vw;
+  margin-left:auto;
+  margin-right: auto;
+  background-color: rgb(104, 107, 107);
+}
+.big-image{
+  height:30vh;
+  width:50vw;
+  background-color: rgb(51, 52, 52);
+  margin-top: 20px;
+  margin-left:auto;
+  margin-right: auto;
+}
+.c-text{
+  margin-top:120px;
+  font-size: 40px;
+  text-align: center;
+  width:50vw;
+}
+.footer{
+  margin-left:auto;
+  margin-right: auto;
+  background-color: rgb(51, 52, 52);
+  height:120px;
+  width:70vw;
+}
+.d-text{
+  font-size:50px;
+  height:30px;
+  width:20vw;
+  color: white;
+  float:right;
+  margin-top: 30px;
+  margin-right: 60px;
+}
+.click-box1 p{
+  position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%)
+    margin:0;
+}
+.click-box2 p{
+  position:absolute;
+   top:50%;
+   left:50%;
+   transform:translate(-50%,-50%)
+   margin:0;
+   
+}
